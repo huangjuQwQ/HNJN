@@ -1,3 +1,9 @@
 {
-  "whitelist": []
+  "whitelist": [
+    {
+      "username": "Huangjuzi",
+      "expires": "2027-09-30 00:21:33",
+      "note": "手动添加 2026-09-30 00:21"
+    }
+  ]
 }
